@@ -8,6 +8,6 @@
 	"config":{
 		"ban_words" : [],
 		"ban_users" : [],
-		"listners" : [ '#lka' '#sumane']
+		"listners" : ['#sumane']
 	}
 }
